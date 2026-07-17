@@ -119,7 +119,7 @@ opencv-python==4.13.0.92
 opencv-python-headless==4.13.0.92
 optional-django==0.1.0
 orjson==3.11.8
-ortools==9.14.6206
+ortools==9.15.6755
 packaging==25.0
 paho-mqtt==2.1.0
 pandas==2.3.2
