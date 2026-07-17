@@ -14,7 +14,7 @@ model = FusionModel().to(DEVICE)
 
 model.load_state_dict(
     torch.load(
-        MODEL_DIR / "fusion_best.pth",
+         "fusion_best.pth",
         map_location=DEVICE
     )
 )
